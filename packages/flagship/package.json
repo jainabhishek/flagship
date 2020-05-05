@@ -18,7 +18,7 @@
     "jsc-android": "241213.x.x",
     "react": "^16.11.0",
     "react-native": "^0.61.0",
-    "replace-in-file": "^5.0.2",
+    "replace-in-file": "^6.0.0",
     "yargs": "^15.0.1"
   },
   "devDependencies": {
