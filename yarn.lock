@@ -3174,12 +3174,12 @@
     util-deprecate "^1.0.2"
 
 "@strictsoftware/typedoc-plugin-monorepo@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@strictsoftware/typedoc-plugin-monorepo/-/typedoc-plugin-monorepo-0.2.1.tgz#09a39299ac4885803e1ce1778ddb7dfd64776606"
-  integrity sha512-VEfK9dCsBmxXGJcFUK0lBKRj1BtdVluy0i8sWa7pfIrQwTJEjMbpvMnx3qjNyl8aWZLtpvWMkEbr3WmXSkOZ2Q==
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@strictsoftware/typedoc-plugin-monorepo/-/typedoc-plugin-monorepo-0.2.2.tgz#18a203dbd13bbd0855e48b532d1f088ed729e9df"
+  integrity sha512-Djx+WA3/z2nc2ngQC52LAlORHG8zMQLb9BH4mQy7X69NKhAV0imiUxUVXeSkaFUxS7f79FAydYS4AxJYUhPnVA==
   dependencies:
     highlight.js "^9.15.6"
-    marked "^0.6.1"
+    marked "^0.8.0"
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
@@ -10671,7 +10671,7 @@ markdownlint@~0.19.0:
   dependencies:
     markdown-it "10.0.0"
 
-marked@^0.6.1, marked@^0.7.0, marked@^0.8.0:
+marked@^0.7.0, marked@^0.8.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/marked/-/marked-0.7.0.tgz#b64201f051d271b1edc10a04d1ae9b74bb8e5c0e"
   integrity sha512-c+yYdCZJQrsRjTPhUx7VKkApw9bwDkNbHUKo1ovgcfDjb2kc8rLuRbIFyXL5WOEUwzSSKo3IXpph2K6DqB/KZg==
